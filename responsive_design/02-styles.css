@@ -1,0 +1,8 @@
+.container {
+    max-width: 800px; /* Maximum width to prevent it from getting too large */
+    width: 100%; /* Allows it to shrink on smaller screens */
+    margin: 0 auto; /* Centers the container */
+    padding: 20px;
+    background-color: #f4f4f4;
+    text-align: center;
+}
